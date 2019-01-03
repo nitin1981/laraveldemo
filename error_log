@@ -1,0 +1,2 @@
+[23-Nov-2017 06:33:34 UTC] PHP Fatal error:  Call to undefined function Symfony\Polyfill\Mbstring\iconv_strpos() in /home/merrchant/public_html/vendor/symfony/polyfill-mbstring/Mbstring.php on line 363
+[23-Nov-2017 13:14:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/merrchant/public_html/storage/framework/views/a7194dc17e979baf015bd062c61cdc012cb6b4cc.php on line 54
